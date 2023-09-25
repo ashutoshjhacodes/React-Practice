@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+body {
+  background-color: lightblue;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: blue;
+  color: white;
+}
+.header {
+  font-weight: bolder;
+  font-size: 3rem;
+  color: whitesmoke;
+  text-shadow: whitesmoke;
+}
+button{
+  color: red;
+  background-color: yellow;
+  width: 10rem;
+  border-radius: 2px ;
+}
